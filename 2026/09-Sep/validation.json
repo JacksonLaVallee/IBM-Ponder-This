@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "platform": "Windows x64",
+  "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER",
+  "python": "3.12",
+  "nvrtc": "12.9.86",
+  "native_libraries_built_from_source": true,
+  "unit_tests_passed": 6,
+  "gpu_replay_candidates": 48,
+  "gpu_replay_exactly_matches_archive": true,
+  "gpu_kernel_tokens_match_archive": true,
+  "checkpoint_resume_no_gaps_or_duplicates": true,
+  "all_57_integer_witnesses_verified": true,
+  "both_adjacent_failures_independently_factored": true,
+  "cold_replay_setup_seconds": 7.340997899998911,
+  "cold_replay_gpu_seconds": 2.0823941999988165
+}

@@ -1,0 +1,10 @@
+__pycache__/
+.cache/
+.build/
+runs/
+*.dll
+*.so
+*.obj
+*.lib
+*.exp
+*.ptx

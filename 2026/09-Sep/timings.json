@@ -1,0 +1,13 @@
+{
+  "hardware": "NVIDIA GeForce RTX 4070 Ti SUPER",
+  "successful_continuation_elapsed_hours": 19.757194166666668,
+  "successful_continuation_measured_batch_hours": 13.525060703638374,
+  "successful_continuation_sieve_hours": 13.109922539137358,
+  "earlier_measured_search_setup_exact_checkpoint_hours": 4.001585413666928,
+  "successful_main_family_compute_hours": 6.8284094444444445,
+  "original_discovery_chunk_sieve_seconds": 2.003214999975171,
+  "original_independent_certificate_seconds": 0.0434246999793686,
+  "discovery_time_guaranteed": false,
+  "replay_is_preselected": true,
+  "endpoint_minimum_proved": false
+}

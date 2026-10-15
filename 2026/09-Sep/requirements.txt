@@ -1,0 +1,2 @@
+numpy>=1.26,<3
+nvidia-cuda-nvrtc-cu12>=12.6,<13
